@@ -1,0 +1,5 @@
+export const SHOW_ERROR = "@@SYNC/SHOW_ERROR";
+export const SHOW_LOADER = "@@SYNC/SHOW_LOADER";
+export const HIDE_LOADER = "@@SYNC/HIDE_LOADER";
+
+export const GENERAL_CONFIG_SERVICE = "@@ASYNC/GENERAL_CONFIG_SERVICE";
